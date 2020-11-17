@@ -1,0 +1,55 @@
+baseURL: "https://liesegang.org/"
+languageCode: "en-us"
+title: "liesegang.io"
+theme: "hugo-PaperMod"
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Posts
+          url: /posts/
+          weight: 10
+        - name: About
+          url: /about/
+          weight: 30
+
+
+params:
+  # home-info mode
+  homeInfoParams:
+      Title: "Hi there"
+      Content: "This site is the online home of Maximilian, a consultant and developer living and working in Germany."
+
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  author: Maximilian
+  # author: ["Me", "You"] # multiple authors
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: false
+
+  socialIcons:
+      - name: github
+        url: "https://github.com/maxliesegang"
+      - name: stackoverflow
+        url: "https://stackoverflow.com"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/maximilian-liesegang/"
+      - name: twitter
+        url: "https://twitter.com/maxliesegang"
