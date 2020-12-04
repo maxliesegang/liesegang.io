@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>liesegang.io</title>
+    <link>https://liesegang.org/</link>
+    <description>Recent content on liesegang.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2020 18:00:00 +0100</lastBuildDate><atom:link href="https://liesegang.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://liesegang.org/posts/my-first-post/</link>
+      <pubDate>Tue, 17 Nov 2020 18:00:00 +0100</pubDate>
+      
+      <guid>https://liesegang.org/posts/my-first-post/</guid>
+      <description>I finally mustered the courage to start publishing some of my thoughts on the web. My posts will focus on what I&amp;rsquo;ve learned about building and designing great producs. Hopefully some of these insights will help people outside clarify their view of technology.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://liesegang.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesegang.org/about/</guid>
+      <description>About I&amp;rsquo;m interested in making digital tools. Since I&amp;rsquo;m focused on building and designing software for humans I&amp;rsquo;m technology-agnostic. But I also believe in the power the web has.
+Work My current job is building software as a consultant at esentri. I&amp;rsquo;ve been there full-time since 2015.
+From 2015 to 2016 I helped a larger organization improve their internal JSF Framework. During that time I first started getting into accessibility since it was a big focus for them.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://liesegang.org/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesegang.org/posts/</guid>
+      <description>An archive of my posts</description>
+    </item>
+    
+  </channel>
+</rss>
