@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://liesegang.org/sitemap.xml
+Sitemap: https://liesegang.io/sitemap.xml

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on liesegang.io</title>
-    <link>https://liesegang.org/posts/</link>
+    <link>https://liesegang.io/posts/</link>
     <description>Recent content in Posts on liesegang.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 18:00:00 +0100</lastBuildDate><atom:link href="https://liesegang.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 18:00:00 +0100</lastBuildDate><atom:link href="https://liesegang.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>https://liesegang.org/posts/my-first-post/</link>
+      <link>https://liesegang.io/posts/my-first-post/</link>
       <pubDate>Tue, 17 Nov 2020 18:00:00 +0100</pubDate>
       
-      <guid>https://liesegang.org/posts/my-first-post/</guid>
+      <guid>https://liesegang.io/posts/my-first-post/</guid>
       <description>I finally mustered the courage to start publishing some of my thoughts on the web. My posts will focus on what I&amp;rsquo;ve learned about building and designing great producs. Hopefully some of these insights will help people outside clarify their view of technology.</description>
     </item>
     
