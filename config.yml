@@ -48,7 +48,7 @@ params:
       - name: github
         url: "https://github.com/maxliesegang"
       - name: stackoverflow
-        url: "https://stackoverflow.com"
+        url: "https://stackoverflow.com/users/768346/maximilian-liesegang"
       - name: linkedin
         url: "https://www.linkedin.com/in/maximilian-liesegang/"
       - name: twitter
